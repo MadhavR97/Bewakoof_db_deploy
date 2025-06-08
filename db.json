@@ -1,9 +1,9 @@
 {
-  "users" : [],
+  "users": [],
   "Products": [
     {
       "id": "da9d",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "T-Shirt",
       "title": "Men's Grey Wakanda Forever Graphic Printed Oversized T-shirt",
       "price": 699,
@@ -25,11 +25,12 @@
       "mainImage": "https://images.bewakoof.com/t1080/men-s-grey-wakanda-forever-graphic-printed-oversized-t-shirt-637171-1739771276-1.jpg",
       "image1": "https://images.bewakoof.com/t1080/men-s-grey-wakanda-forever-graphic-printed-oversized-t-shirt-637171-1715323036-2.jpg",
       "image2": "https://images.bewakoof.com/t1080/men-s-grey-wakanda-forever-graphic-printed-oversized-t-shirt-637171-1715323044-4.jpg",
-      "image3": "https://images.bewakoof.com/t1080/men-s-grey-wakanda-forever-graphic-printed-oversized-t-shirt-637171-1715323049-5.jpg"
+      "image3": "https://images.bewakoof.com/t1080/men-s-grey-wakanda-forever-graphic-printed-oversized-t-shirt-637171-1715323049-5.jpg",
+      "brand": ""
     },
     {
       "id": "d059",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "T-Shirt",
       "title": "Men's Black Batman Outline Logo Graphic Printed Oversized T-shirt",
       "price": 699,
@@ -55,7 +56,7 @@
     },
     {
       "id": "5a82",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "T-Shirt",
       "title": "Men's Black Panther Mech Graphic Printed Oversized T-shirt",
       "price": 699,
@@ -81,7 +82,7 @@
     },
     {
       "id": "be51",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "T-Shirt",
       "title": "Men's Black Across The Spiderverse Graphic Printed Oversized T-shirt",
       "price": 699,
@@ -107,7 +108,7 @@
     },
     {
       "id": "05ee",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "T-Shirt",
       "title": "Men's Black Killmonger Graphic Printed T-shirt",
       "price": 399,
@@ -133,7 +134,7 @@
     },
     {
       "id": "da38",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Shirt",
       "title": "Men's Blue Den Graphic Printed Oversized Shirt",
       "price": 1699,
@@ -159,7 +160,7 @@
     },
     {
       "id": "481a",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Shirt",
       "title": "Men's Grey Oversized Shirt",
       "price": 1299,
@@ -185,7 +186,7 @@
     },
     {
       "id": "2832",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Shirt",
       "title": "Men's Grey Oversized Shirt",
       "price": 579,
@@ -211,7 +212,7 @@
     },
     {
       "id": "ec9c",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Shirt",
       "title": "Men's Rust Orange Checked Oversized Shirt",
       "price": 1499,
@@ -237,7 +238,7 @@
     },
     {
       "id": "51a7",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Shirt",
       "title": "Men's Blue Icon Printed Oversized Shirt",
       "price": 1649,
@@ -263,7 +264,7 @@
     },
     {
       "id": "1faa",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Hoodies",
       "title": "Men's Jet Black Doom Typography Oversized Hoodies",
       "price": 1499,
@@ -289,7 +290,7 @@
     },
     {
       "id": "b550",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Hoodies",
       "title": "Men's Black I Need My Space Typography Oversized Hoodies",
       "price": 1699,
@@ -315,7 +316,7 @@
     },
     {
       "id": "a1d0",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Hoodies",
       "title": "Men's Brown Metallica Graphic Printed Hoodies",
       "price": 1299,
@@ -341,7 +342,7 @@
     },
     {
       "id": "450a",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Hoodies",
       "title": "Men's Black Graphic Printed Oversized Hoodies",
       "price": 1699,
@@ -367,7 +368,7 @@
     },
     {
       "id": "efbe",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Hoodies",
       "title": "Men's Black Fly Me To The Moon Graphic Printed Oversized Hoodies",
       "price": 1499,
@@ -393,7 +394,7 @@
     },
     {
       "id": "aedc",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Joggers",
       "title": "Men's Black Oversized Cargo Joggers",
       "price": 999,
@@ -419,7 +420,7 @@
     },
     {
       "id": "1e6f",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Joggers",
       "title": "Men's Charcoal Grey Oversized Joggers",
       "price": 999,
@@ -445,7 +446,7 @@
     },
     {
       "id": "f220",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Joggers",
       "title": "Men's Green Oversized Cargo Joggers",
       "price": 999,
@@ -471,7 +472,7 @@
     },
     {
       "id": "ff65",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Joggers",
       "title": "Men's Brown Oversized Cargo Joggers",
       "price": 999,
@@ -497,7 +498,7 @@
     },
     {
       "id": "3760",
-      "category": "Men's Clothes",
+      "category": "Mens Clothes",
       "type": "Joggers",
       "title": "Men's Green Joggers",
       "price": 999,
@@ -523,7 +524,7 @@
     },
     {
       "id": "8e14",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "T-Shirt",
       "title": "Women's Blue Inner Peace Graphic Printed Boyfriend T-shirt",
       "price": 399,
@@ -549,7 +550,7 @@
     },
     {
       "id": "2726",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "T-Shirt",
       "title": "Women's Blue Lazy Garfield Graphic Printed Oversized T-shirt",
       "price": 649,
@@ -575,7 +576,7 @@
     },
     {
       "id": "8f84",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "T-Shirt",
       "title": "Women's Green Be Stupid Odie Graphic Printed Oversized T-shirt",
       "price": 599,
@@ -601,7 +602,7 @@
     },
     {
       "id": "9b66",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "T-Shirt",
       "title": "Women's Black Believe Cat Graphic Printed Boyfriend T-shirt",
       "price": 399,
@@ -627,7 +628,7 @@
     },
     {
       "id": "aa8d",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "T-Shirt",
       "title": "Women's Black In 3D BTS Graphic Printed Oversized T-shirt",
       "price": 549,
@@ -653,7 +654,7 @@
     },
     {
       "id": "9ea7",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Top",
       "title": "Women's Blue Round in Bugs Graphic Printed Oversized Short Top",
       "price": 699,
@@ -679,7 +680,7 @@
     },
     {
       "id": "018a",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Top",
       "title": "Women's White Looney Tunes Graphic Printed Oversized Polo Short Top",
       "price": 649,
@@ -705,7 +706,7 @@
     },
     {
       "id": "ba79",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Top",
       "title": "Women's White All Over Printed Top",
       "price": 999,
@@ -731,7 +732,7 @@
     },
     {
       "id": "4bbd",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Top",
       "title": "Women's Blue Friends Gang Logo Graphic Printed Oversized Short Top",
       "price": 599,
@@ -757,7 +758,7 @@
     },
     {
       "id": "fa90",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Top",
       "title": "Women's Blue All Over Printed Slim Fit Short Top",
       "price": 399,
@@ -783,7 +784,7 @@
     },
     {
       "id": "b717",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Dress",
       "title": "Women's Blue Oversized Shirt Dress",
       "price": 1499,
@@ -809,7 +810,7 @@
     },
     {
       "id": "ebae",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Dress",
       "title": "Women's Brown Mickey The Original Graphic Printed Oversized T-shirt Dress",
       "price": 899,
@@ -835,7 +836,7 @@
     },
     {
       "id": "ebcb",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Dress",
       "title": "Women's Blue Mickey Graphic Printed Oversized Shirt Dress",
       "price": 1399,
@@ -861,7 +862,7 @@
     },
     {
       "id": "b1b4",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Dress",
       "title": "Women's White & Black All Over Printed Dress",
       "price": 1599,
@@ -887,7 +888,7 @@
     },
     {
       "id": "eed5",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Dress",
       "title": "Women's Green Floral Printed Flared Maxi Dress",
       "price": 1439,
@@ -913,7 +914,7 @@
     },
     {
       "id": "5bd6",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Hoodies",
       "title": "Women's Black Oversized Hoodies",
       "price": 1299,
@@ -939,7 +940,7 @@
     },
     {
       "id": "c775",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Hoodies",
       "title": "Women's Black Space Typography Oversized Hoodies",
       "price": 1499,
@@ -965,7 +966,7 @@
     },
     {
       "id": "380f",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Hoodies",
       "title": "Women's Black Graphic Printed Oversized Hoodies",
       "price": 1299,
@@ -991,7 +992,7 @@
     },
     {
       "id": "c844",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Hoodies",
       "title": "Women's Black Fragile Graphic Printed Oversized Hoodies",
       "price": 1299,
@@ -1017,7 +1018,7 @@
     },
     {
       "id": "172f",
-      "category": "Women's Clothes",
+      "category": "Womens Clothes",
       "type": "Hoodies",
       "title": "Women's Black Harry Potter and Friends Graphic Printed Zipper Hoodies",
       "price": 1499,
